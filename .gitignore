@@ -1,5 +1,12 @@
-# Configuraciones locales del editor
-.vscode/
-
-# Archivos de ondas de simulación generados por tus testbenches
-*.vcd
+# Vivado
+*.jou
+*.log
+*.str
+*.cache/
+*.gen/
+*.runs/
+*.sim/
+*.hw/
+*.ip_user_files/
+*.Xil/
+*.xpr.user
