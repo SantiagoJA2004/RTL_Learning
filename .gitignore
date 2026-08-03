@@ -1,0 +1,5 @@
+# Configuraciones locales del editor
+.vscode/
+
+# Archivos de ondas de simulación generados por tus testbenches
+*.vcd
