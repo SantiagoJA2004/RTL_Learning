@@ -13,6 +13,6 @@ module boolean_examples(
     assign y2 = (a & b) | c; // (A AND B) OR C
     assign y3 = ~(a | b); // NOT(A OR B)
     assign y4 = (a ^ b) & c; // (A XOR B) AND C
-    assign y5 = (~a & b) | (a & ~b); // (NOT A AND B) OR (A AND NOT B)
+    assign y5 = (~a & b) | (a & ~b); // (NOT A AND B) OR (A AND NOT B)  XOR gate
 
 endmodule
